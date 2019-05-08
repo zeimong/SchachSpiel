@@ -12,6 +12,7 @@ public abstract class Figuren {
 	
     //Variablen
     //Test; test
+	//test123
     private Zug zug;
     private Feld feld;
     private Color color;
