@@ -11,7 +11,7 @@ import java.awt.Color;
 public abstract class Figuren {
 	
     //Variablen
-    
+    //Test
     private Zug zug;
     private Feld feld;
     private Color color;
